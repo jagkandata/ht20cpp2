@@ -7,6 +7,8 @@ Ibland behöver man veta vad en temperatur i Fahrenheit är i Celsius. Skriv ett
 32°F = 0°C
 212°F = 100°C
 
+---
+
 # Restid
 
 Skriv ett program som räknar ut restid baserat på avstånd och genomsnittshastighet. Användaren ska mata in avståndet i mil och hastigheten i km/h. Programmet ska kunna göra nya uträkningar utan att behöva startas om.
